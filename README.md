@@ -36,8 +36,8 @@ This project is a e-commerce platform built using Django for the backend and Rea
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/ecommerce-api.git
-   cd ecommerce-api
+   git clone https://github.com/your-username/ecommerce_api.git
+   cd ecommerce_api
    ```
 
 2. **Create a virtual environment and activate it:**
