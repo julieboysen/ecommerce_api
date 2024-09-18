@@ -1,0 +1,30 @@
+# .gitignore
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Environment variables file
+.env
+
+# Django migrations
+*/migrations/*.py
+*/migrations/*.pyc
+
+# SQLite database (if using SQLite)
+*.sqlite3
+
+# Media and static files (depending on deployment setup)
+media/
+staticfiles/
+
+# Virtual environments
+venv/
+.env/
+
+# Node modules (if using frontend tools like npm)
+node_modules/
+
+# IDE-specific files (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
